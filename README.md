@@ -19,9 +19,9 @@ To play the Dice Game:
 
 ## Screenshots
 
-![Screenshot 1](C:/Users/princ/Documents/New filder/React/YT Projects💪/dicegame/Screenshot_20240321_214239.png)
+![Screenshot 1]("C:/Users/princ/Documents/New filder/React/YT Projects💪/dicegame/Screenshot_20240321_214239.png")
 *Main gameplay screen*
 
-![Screenshot 2](C:/Users/princ/Documents/New filder/React/YT Projects💪/dicegame/Screenshot_20240321_214239.png)
+![Screenshot 2]("C:/Users/princ/Documents/New filder/React/YT Projects💪/dicegame/Screenshot_20240321_214239.png")
 *Scoreboard displaying current score*
 
