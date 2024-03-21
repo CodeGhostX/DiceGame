@@ -17,11 +17,4 @@ To play the Dice Game:
 2. Click the "Roll Dice" button to roll the dice.
 3. If the rolled number matches your chosen number, you earn 6 points. Otherwise, you lose 1 point.
 
-## Screenshots
-
-![Screenshot 1]("Screenshot_20240321_214239.png")
-*Main gameplay screen*
-
-![Screenshot 2]("Screenshot_20240321_214239.png")
-*Scoreboard displaying current score*
 
